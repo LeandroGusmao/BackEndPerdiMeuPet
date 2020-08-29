@@ -1,0 +1,28 @@
+{
+  "name": "back-end-perdi-meu-pet",
+  "version": "1.0.0",
+  "description": "Api rest da plataforma perdi meu pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroGusmao/BackEndPerdiMeuPet.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest",
+    "mongoose"
+  ],
+  "author": "Leandro Gonçalves Gusmão and Flavio Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroGusmao/BackEndPerdiMeuPet/issues"
+  },
+  "homepage": "https://github.com/LeandroGusmao/BackEndPerdiMeuPet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
