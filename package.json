@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeandroGusmao/BackEndPerdiMeuPet.git"
+    "url": "git+https://github.com/LeandroGusmao/BackEndPerdiMeuPet"
   },
   "keywords": [
     "node",
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/LeandroGusmao/BackEndPerdiMeuPet#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.2"
   }
 }
